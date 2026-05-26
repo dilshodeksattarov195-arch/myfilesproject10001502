@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionvender",
+        "uuid": 3550728,
+        "checksum": "84tw5bm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
